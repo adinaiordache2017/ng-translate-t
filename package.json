@@ -37,7 +37,7 @@
 		"angular": "npm:@tradeshift/xlts.angular@^1.8.5",
 		"angular-mocks": "npm:@tradeshift/xlts.angular-mocks@^1.8.5",
 		"jquery": "^3.3.1",
-		"tradeshift-scripts": "^2.8.0"
+		"tradeshift-scripts": "^5.1.1"
 	},
 	"peerDependencies": {
 		"angular": "1",
